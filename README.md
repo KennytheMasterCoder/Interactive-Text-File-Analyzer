@@ -1,7 +1,7 @@
 # Interactive Command-Line Text File Processor
 
 A C-based interactive, menu-driven file analyzer that processes large text files and computes various statistics about their contents. This program is designed with modular structure and flexible user options and supports multiple runtime configurations (including punctuation filtering, number counting, and number of repeated letters). 
-This program demonstrates detailed input handling, modular programming, and a command-line interface in the Terminal. 
+This program demonstrates detailed input handling, modular programming, and a command-line interface in the terminal. 
 
 ## Project Structure
 ```

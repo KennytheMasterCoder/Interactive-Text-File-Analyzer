@@ -151,13 +151,13 @@ Exiting program.
 <br>
 
 ## How to Compile and Run
-1. Compile using Makefile:
-```make``` <br>
+1. Compile using Makefile: <br>
+```make```
 OR manually: <br>
 ```gcc -o processMake SecondProject.c ProcessFile.c```
 
-2. Run
-```./processMake``` <br>
+2. Run <br>
+```./processMake```
 
 Then follow the command line prompts to:
 - load a `.txt` file

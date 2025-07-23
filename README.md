@@ -24,7 +24,7 @@ input.txt            # alternate smaller input file to test
   - Number of words that start with each letter (A–Z)
   - Total punctuation characters (`-p` flag)
   - Total digit characters (`-n` flag)
-  - Adjacent repeated letter patterns (e.g. “letter” → `T`)
+  - Number of repeated letters
 - Supports multi-file sessions: you can analyze another file WITHOUT restarting the program
 - Modular design: separates logic into `SecondProject.c`, `ProcessFile.c`, and `SecondProject.h`
 - Clean resets of counters (word, digit, punctuation) between runs

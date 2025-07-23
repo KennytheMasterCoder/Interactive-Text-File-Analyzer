@@ -153,10 +153,11 @@ Exiting program.
 ## How to Compile and Run
 1. Compile using Makefile: <br>
 ```make```
+<br>
 OR manually: <br>
 ```gcc -o processMake SecondProject.c ProcessFile.c```
 
-2. Run <br>
+3. Run <br>
 ```./processMake```
 
 Then follow the command line prompts to:

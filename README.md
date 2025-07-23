@@ -178,7 +178,7 @@ The program is structured as an interactive, menu-driven loop that allows users 
      - Change or reprocess files
      - Exit the program
 
-2. **File Processing via `processFile() function`**
+2. **File Processing via `processFile()` function**
    - Reads characters one-by-one from the file using `fgetc()`.
    - Tracks the following:
      - Total word count

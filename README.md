@@ -28,6 +28,7 @@ input.txt            # alternate smaller input file to test
 - Modular design: separates logic into `SecondProject.c`, `ProcessFile.c`, and `SecondProject.h`
 - Clean resets of counters (word, digit, punctuation) between runs
 
+<br>
 
 ## Sample Output
 ```
@@ -147,6 +148,8 @@ Please enter a number, 1 to 8
 Exiting program.
 ```
 
+<br>
+
 ## How to Compile and Run
 1. Compile using Makefile:
 ```make``` <br>
@@ -161,6 +164,7 @@ Then follow the command line prompts to:
 - enable/disable flags
 - display analysis results
 
+<br>
 
 ## How It Works
 
@@ -190,6 +194,9 @@ The program is structured as an interactive, menu-driven loop that allows users 
      - Process a new file without restarting
 
 
+<br>
+
+
 ## Design Notes
 
 - **Modular File Structure**
@@ -205,6 +212,7 @@ The program is structured as an interactive, menu-driven loop that allows users 
   - All flags (`-p`, `-n`) and filenames are managed during runtime
   - Users can switch files and view stats without restarting or recompiling
 
+<br>
 
 
 ## About This Project
@@ -215,6 +223,7 @@ This was built as a **second iteration** of a previous word analysis program wri
 - Expanded functionality (repeated letters, file swapping)
 - Stronger error-checking and modularity
 
+<br>
 
 ## 💡 Ideas for Future Improvement
 
